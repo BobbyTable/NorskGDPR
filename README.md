@@ -1,7 +1,7 @@
 # NorskGDPR
 GDPR translated to norwegian in a readable format. 
 
-#[The document can be viewed here](https://bobbytable.github.io/NorskGDPR/)
+# [The document can be viewed here](https://bobbytable.github.io/NorskGDPR/)
 
 Tired of scrolling in the 90 page PDF with watermarks etc in the translation provided by Datatilsynet, i extracted the norwegian translation from a proposition
 
